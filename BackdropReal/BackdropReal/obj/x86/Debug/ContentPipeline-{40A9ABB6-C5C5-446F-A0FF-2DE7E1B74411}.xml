@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{40A9ABB6-C5C5-446F-A0FF-2DE7E1B74411}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\epicr\Desktop\BackdropReal\BackdropReal\BackdropRealContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\epicr\Desktop\BackdropReal\BackdropReal\BackdropReal\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\epicr\Desktop\BackdropReal\BackdropReal\BackdropReal\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\epicr\Desktop\BackdropReal\BackdropReal\BackdropReal\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2020-09-08T07:36:02.7502529-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
